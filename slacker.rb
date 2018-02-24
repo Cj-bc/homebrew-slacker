@@ -3,7 +3,7 @@ class Slacker < Formula
   desc "Allows to send slack messages from terminal"
   homepage "https://github.com/Cj-bc/slacker"
   url "https://github.com/Cj-bc/slacker/archive/v" + version + ".tar.gz"
-  sha256 "96f8d04a1c7b6e2b08df6ecd862a1bf699219d238b5fdbca748d47c4bef88e6c"
+  sha256 "a72bf215dbc61054f86b1ad22db8d0cf16672be65e18d80bcaad87a929cc25d1"
   head "https://github.com/Cj-bc/slacker.git"
 
   depends_on "awk"
